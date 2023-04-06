@@ -3,4 +3,3 @@ This repository contains documents/files about data science related competitions
 A
 B
 C
-D
